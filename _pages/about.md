@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I graduated from the Anhui University（安徽大学） in 2025 with a Bachelor of Law degree in Sociology. Currently, I'm pursuing a Master's degree in Computational Social Science at UC San Diego.
+I graduated from the Anhui University（安徽大学）in 2025 with a Bachelor of Law degree in Sociology. Currently, I'm pursuing a Master's degree in Computational Social Science at UC San Diego.
