@@ -38,6 +38,7 @@ body.sticky-bottom-footer {
   
   img {
     width: 150%;       // 这一行必须有！保证图片自动适应框框
+    max-width: none;   // 添加这行，移除图片的宽度限制
   }
 }
 
