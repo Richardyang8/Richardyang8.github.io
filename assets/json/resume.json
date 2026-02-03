@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Ruicheng Yang",
+    "label": "M.S. Student in Computational Social Science",
+    "image": "",
+    "email": "yangrc8@gmail.com",
+    "phone": "+1 (858) 241-7929",
+    "url": "https://richardyang8.github.io",
+    "summary": "A Master's student in Computational Social Science at UC San Diego, with a background in Sociology from Anhui University. Passionate about applying computational methods, machine learning, and statistical analysis to social science research.",
+    "location": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "richardyang8",
+        "url": "https://github.com/richardyang8"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",
+      "position": "Research Intern (Remote)",
+      "startDate": "2024-08-01",
+      "endDate": "2024-09-30",
+      "summary": "Conducted research on land use changes and urban ecological degradation.",
+      "highlights": [
+        "Analyzed land use changes in 3 regions over 4 decades using ArcGIS software",
+        "Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar",
+        "Analyzed indicators related to urban ecological degradation",
+        "Engaged in assessing potential impacts of urban ecosystem policies"
+      ]
+    },
+    {
+      "name": "Jianghuai Tribune, Anhui Academy of Social Sciences",
+      "position": "Editorial Intern",
+      "location": "Anhui, China",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-31",
+      "summary": "Supported academic journal publication and rural revitalization research.",
+      "highlights": [
+        "Developed rural revitalization investigation",
+        "Edited and proofread 20+ academic journal articles",
+        "Attended manuscript revision seminars as conference secretary"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "area": "Computational Social Science",
+      "studyType": "Master of Science",
+      "startDate": "2025-09-01",
+      "endDate": "2026-06-30",
+      "score": "",
+      "courses": [
+        "Statistical Methods for Computational Social Science",
+        "Statistical Computing and Inference from Data",
+        "Machine Learning for Social Sciences",
+        "Large Language Models",
+        "Neural Networks/Deep Learning"
+      ]
+    },
+    {
+      "institution": "Anhui University",
+      "area": "Sociology",
+      "studyType": "Bachelor of Law",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-30",
+      "score": "GPA: 3.91/5.0 (WES: 3.67/4.0)",
+      "courses": [
+        "Social Research Methods",
+        "Social Statistics",
+        "Social Governance",
+        "Theories of Foreign Sociology",
+        "Quantitative Research Design",
+        "Statistics Software"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Academic Achievement Scholarship",
+      "date": "2024-01-01",
+      "awarder": "Anhui University",
+      "summary": ""
+    },
+    {
+      "title": "Arts and Sports Scholarship",
+      "date": "2023-01-01",
+      "awarder": "Anhui University",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern",
+      "publisher": "Journal of Education, Humanities and Social Sciences",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The Influence of National Rural Construction Policies on Development Path of Landscaping Companies",
+      "publisher": "",
+      "releaseDate": "2022-01-01",
+      "url": "",
+      "summary": "Co-authored with Qianzhong S. and Jingyu Z."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": ["Python", "R", "Stata", "SPSS"]
+    },
+    {
+      "name": "Software & Tools",
+      "level": "Proficient",
+      "keywords": ["Microsoft Office Suite", "ArcGIS", "Endnote", "Zotero"]
+    },
+    {
+      "name": "Research Methods",
+      "level": "Proficient",
+      "keywords": ["Statistical Analysis", "Quantitative Research", "Machine Learning"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Neural Data Decomposition for Hidden Population Discovery",
+      "summary": "Capstone Project at UCSD - Developing computational methods for neural signal analysis",
+      "startDate": "2025-09-01",
+      "endDate": "2026-06-30",
+      "highlights": [
+        "Developing Python-based computational pipeline for neural signal analysis",
+        "Utilizing GPU clusters for dimensionality reduction",
+        "Evaluating component stability through cross-validation"
+      ]
+    },
+    {
+      "name": "Embracing Community - Urban Public Cultural Space Construction",
+      "summary": "National College Students' Innovative Training Plan",
+      "startDate": "2024-04-01",
+      "endDate": "",
+      "highlights": [
+        "Explored governance mechanism of urban public space",
+        "Conducted field research collecting 200+ valid responses",
+        "Analyzed effectiveness of existing policies"
+      ]
+    }
+  ]
+}
