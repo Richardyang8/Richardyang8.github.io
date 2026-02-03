@@ -1,9 +1,3 @@
-- title: TEST - This is a test
-  type: map
-  contents:
-    - name: Test
-      value: If you see this, the update worked!
-
 - title: General Information
   type: map
   contents:
@@ -28,6 +22,7 @@
       year: 2025 - 2026
       description:
         - "Relevant Coursework: Statistical Methods for Computational Social Science, Statistical Computing and Inference from Data, Machine Learning for Social Sciences, Large Language Models, Neural Networks/Deep Learning"
+    
     - title: Bachelor of Law in Sociology
       institution: Anhui University (AHU), Anhui, China
       year: 2021 - 2025
@@ -43,82 +38,47 @@
       institution: Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
       year: Aug. 2024 - Sep. 2024
       description:
-        - Analyzed land use changes in 3 regions over 4 decades using ArcGIS software, revealing factors underlying shifts via situational analysis
-        - Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar; extracted data with Excel, Endnote, and Zotero
-        - Analyzed indicators related to urban ecological degradation (green space coverage, air quality index, etc.)
-        - Engaged in assessing potential impacts of different urban ecosystem policies to help develop sustainable land-use strategies
+        - Analyzed land use changes in 3 regions over 4 decades using ArcGIS software
+        - Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar
+        - Analyzed indicators related to urban ecological degradation
+        - Engaged in assessing potential impacts of urban ecosystem policies
+    
     - title: Intern
       institution: Jianghuai Tribune, AnHui Academy of Social Sciences, Anhui, China
       year: Jul. 2023 - Aug. 2023
       description:
-        - Developed rural revitalization investigation; interviewed village cadres and villagers to assess policy implementation challenges
-        - Edited and proofread 20+ academic journal articles, leading to accurate and smooth publication
-        - Attended manuscript revision seminars as conference secretary, supervised post-conference manuscript revision tasks
+        - Developed rural revitalization investigation
+        - Edited and proofread 20+ academic journal articles
+        - Attended manuscript revision seminars as conference secretary
 
 - title: Research and Projects
   type: time_table
   contents:
-    - title: Neural Data Decomposition for Hidden Population Discovery in Language and Social Perception
-      institution: Capstone Project - Director Dr. Meenakshi Khosla, UCSD
+    - title: Neural Data Decomposition for Hidden Population Discovery
+      institution: Capstone Project - UCSD
       year: Sep. 2025 - Jun. 2026
       description:
-        - Developing Python-based computational pipeline to demix high-dimensional neural signals using matrix factorization
-        - Utilizing GPU clusters for dimensionality reduction and factor analysis of brain data
-        - Evaluating component stability through cross-validation and interpreting functional significance
-    - title: Embracing Community - Urban Public Cultural Space Construction and Governance
-      institution: National-level Project - National College Students' Innovative Entrepreneurial Training Plan
+        - Developing Python-based computational pipeline for neural signal analysis
+        - Utilizing GPU clusters for dimensionality reduction
+        - Evaluating component stability through cross-validation
+    
+    - title: Embracing Community - Urban Public Cultural Space Construction
+      institution: National College Students' Innovative Training Plan
       year: Apr. 2024 - Present
       description:
-        - Explored governance mechanism of urban public space with reference to theories of urban gentrification and spatial politics
-        - Conducted field research in communities, collected 200+ valid responses via questionnaires and interviews
-        - Analyzed effectiveness of existing policies and proposed recommendations for optimizing urban public space governance
-    - title: Sociological Research and Quantitative Analysis Methods in a Global Context
-      institution: Online Course - Instructor Prof. Parfait, Cornell University
-      year: Jan. 2024 - Apr. 2024
-      description:
-        - Traced shifts in developmental theory from early optimism to recent pessimism
-        - Undertook quantitative and qualitative studies of global evolution, population growth, and social equity
-        - Extracted data from CGSS2021 (2,735 samples) for analysis of education's impact on eco-friendly behavior
-        - "Authored: Education and Environment-Friendly Behavior - The Mediating Role of Environmental Concern"
-    - title: Gender Preferences, Family Support and Fertility Intention Studies
-      institution: Course Project for Statistics Software - Empirical Evidence from CFPS
-      year: Mar. 2023 - Jun. 2023
-      description:
-        - Filtered sample of 3,404 men and women aged 22-44 from CFPS2018
-        - Built OLS and Poisson regression models revealing correlation between parental preference and fertility intention
-        - Contributed paper on impact of gender preferences and family support on fertility intentions
-    - title: Enhancement of Young Married Women's Fertility Intentions Based on Youth-Friendly Cities
-      institution: Provincial-level Project (No.S202310357540) - Project Initiator
-      year: Feb. 2023 - May 2024
-      description:
-        - Reviewed 40+ literature to define youth-friendly city construction framework
-        - Designed fertility intention questionnaire distributed to 117 young married women, obtained 87 valid responses
-        - Used SPSS to analyze data, revealing low satisfaction with fertility support policies from 4 perspectives
-        - Proposed 9 policy optimization paths, affirmed by Anhui Women's Federation
-    - title: Rural Tourism Digital Transformation under Integration of Culture and Tourism
-      institution: 2022 Anhui Rural Revitalization Innovation Competition - Group Leader
-      year: Nov. 2022 - Dec. 2022
-      description:
-        - Accessed policies on culture empowerment for rural revitalization
-        - Conducted social surveys and field visits gaining insights into cultural integration potential
-        - Analyzed rural digital tourism feasibility and designed logo endorsed by village council
-    - title: Rural Social Policy and Economic Change
-      institution: Remote Research Project - Instructor Prof. Xu, Fudan University
-      year: Jul. 2022 - Aug. 2022
-      description:
-        - Applied rural sociology framework to evaluate township division's economic behavior
-        - Carried out case studies based on 10+ literature reviews
-        - "Co-authored: The Influence of National Rural Construction Policies on Development Path of Landscaping Companies"
+        - Explored governance mechanism of urban public space
+        - Conducted field research collecting 200+ valid responses
+        - Analyzed effectiveness of existing policies
 
 - title: Publications
   type: time_table
   contents:
     - year: 2024
       items:
-        - "Yang, R. (2024). Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern. In Journal of Education, Humanities and Social Sciences (ISSN: 2771-2907). Presented at ETEMSS 2024."
+        - "Yang, R. (2024). Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern. Journal of Education, Humanities and Social Sciences."
     - year: 2022
       items:
-        - "Yang, R., Qianzhong, S., Jingyu, Z. (2022). The Influence of National Rural Construction Policies on the Development Path of Landscaping Companies (DOI: 10.54254/2753-7048/6/20220950). Presented at ICIHCS 2022."
+        - "Yang, R., Qianzhong, S., Jingyu, Z. (2022). The Influence of National Rural Construction Policies on Development Path of Landscaping Companies."
 
 - title: Honors and Awards
   type: time_table
@@ -130,35 +90,9 @@
       items:
         - Arts and Sports Scholarship, Anhui University
 
-- title: Leadership and Activities
-  type: time_table
-  contents:
-    - title: Vice President
-      institution: Association for Social Work, Anhui University
-      year: Oct. 2021 - Oct. 2024
-
 - title: Technical Skills
   type: list
   contents:
     - "<u>Programming:</u> Python, R, Stata, SPSS"
-    - "<u>Software:</u> Microsoft Office Suite (Excel, PowerPoint), ArcGIS, Endnote, Zotero"
-    - "<u>Methods:</u> Statistical Analysis, Quantitative Research, Data Visualization, Machine Learning"
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Computational Social Science
-      items:
-        - Neural data analysis and hidden population discovery
-        - Machine learning applications in social sciences
-        - Large language models for social research
-    - title: Urban Studies and Social Policy
-      items:
-        - Urban public space governance
-        - Cultural space construction and community development
-        - Youth-friendly city policies and fertility studies
-    - title: Environmental and Rural Sociology
-      items:
-        - Environmental behavior and ecological consciousness
-        - Rural revitalization and sustainable development
-        - Land use policy and urban-rural transformation
+    - "<u>Software:</u> Microsoft Office Suite, ArcGIS, Endnote, Zotero"
+    - "<u>Methods:</u> Statistical Analysis, Quantitative Research, Machine Learning"
