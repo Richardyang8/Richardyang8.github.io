@@ -6,92 +6,153 @@
     - name: Date of Birth
       value: 8th May 2003
     - name: Languages
-      value: Chinese, English
+      value: Chinese (Native), English (Fluent)
+    - name: Email
+      value: yangrc8@gmail.com
+    - name: Phone
+      value: +1 (858)-241-7929
+    - name: Website
+      value: richardyang8.github.io
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Computational Social Science
+      institution: University of California, San Diego
+      year: 2025 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Relevant Coursework: Statistical Methods for Computational Social Science, Statistical Computing and Inference from Data, Machine Learning for Social Sciences, Large Language Models, Neural Networks/Deep Learning"
+    - title: Bachelor of Law in Sociology
+      institution: Anhui University (AHU), Anhui, China
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.91/5.0 (WES GPA: 3.67/4.0)"
+        - "Relevant Coursework: Social Research Methods, Social Statistics, Social Governance, Theories of Foreign Sociology, Quantitative Research Design, Statistics Software"
+        - "Awards: 2022-2023 Arts and Sports Scholarship; 2023-2024 Academic Achievement Scholarship"
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Intern (Remote)
+      institution: Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
+      year: Aug. 2024 - Sep. 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Analyzed land use changes in 3 regions over 4 decades using ArcGIS software, revealing factors underlying shifts via situational analysis
+        - Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar; extracted data with Excel, Endnote, and Zotero
+        - Analyzed indicators related to urban ecological degradation (green space coverage, air quality index, etc.)
+        - Engaged in assessing potential impacts of different urban ecosystem policies to help develop sustainable land-use strategies
+    - title: Intern
+      institution: Jianghuai Tribune, AnHui Academy of Social Sciences, Anhui, China
+      year: Jul. 2023 - Aug. 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed rural revitalization investigation; interviewed village cadres and villagers to assess policy implementation challenges
+        - Edited and proofread 20+ academic journal articles, leading to accurate and smooth publication
+        - Attended manuscript revision seminars as conference secretary, supervised post-conference manuscript revision tasks
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research and Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Neural Data Decomposition for Hidden Population Discovery in Language and Social Perception
+      institution: Capstone Project - Director Dr. Meenakshi Khosla, UCSD
+      year: Sep. 2025 - Jun. 2026
+      description:
+        - Developing Python-based computational pipeline to demix high-dimensional neural signals using matrix factorization
+        - Utilizing GPU clusters for dimensionality reduction and factor analysis of brain data
+        - Evaluating component stability through cross-validation and interpreting functional significance
+    - title: Embracing Community - Urban Public Cultural Space Construction and Governance
+      institution: National-level Project - National College Students' Innovative Entrepreneurial Training Plan
+      year: Apr. 2024 - Present
+      description:
+        - Explored governance mechanism of urban public space with reference to theories of urban gentrification and spatial politics
+        - Conducted field research in communities, collected 200+ valid responses via questionnaires and interviews
+        - Analyzed effectiveness of existing policies and proposed recommendations for optimizing urban public space governance
+    - title: Sociological Research and Quantitative Analysis Methods in a Global Context
+      institution: Online Course - Instructor Prof. Parfait, Cornell University
+      year: Jan. 2024 - Apr. 2024
+      description:
+        - Traced shifts in developmental theory from early optimism to recent pessimism
+        - Undertook quantitative and qualitative studies of global evolution, population growth, and social equity
+        - Extracted data from CGSS2021 (2,735 samples) for analysis of education's impact on eco-friendly behavior
+        - "Authored: Education and Environment-Friendly Behavior - The Mediating Role of Environmental Concern"
+    - title: Gender Preferences, Family Support and Fertility Intention Studies
+      institution: Course Project for Statistics Software - Empirical Evidence from CFPS
+      year: Mar. 2023 - Jun. 2023
+      description:
+        - Filtered sample of 3,404 men and women aged 22-44 from CFPS2018
+        - Built OLS and Poisson regression models revealing correlation between parental preference and fertility intention
+        - Contributed paper on impact of gender preferences and family support on fertility intentions
+    - title: Enhancement of Young Married Women's Fertility Intentions Based on Youth-Friendly Cities
+      institution: Provincial-level Project (No.S202310357540) - Project Initiator
+      year: Feb. 2023 - May 2024
+      description:
+        - Reviewed 40+ literature to define youth-friendly city construction framework
+        - Designed fertility intention questionnaire distributed to 117 young married women, obtained 87 valid responses
+        - Used SPSS to analyze data, revealing low satisfaction with fertility support policies from 4 perspectives
+        - Proposed 9 policy optimization paths, affirmed by Anhui Women's Federation
+    - title: Rural Tourism Digital Transformation under Integration of Culture and Tourism
+      institution: 2022 Anhui Rural Revitalization Innovation Competition - Group Leader
+      year: Nov. 2022 - Dec. 2022
+      description:
+        - Accessed policies on culture empowerment for rural revitalization
+        - Conducted social surveys and field visits gaining insights into cultural integration potential
+        - Analyzed rural digital tourism feasibility and designed logo endorsed by village council
+    - title: Rural Social Policy and Economic Change
+      institution: Remote Research Project - Instructor Prof. Xu, Fudan University
+      year: Jul. 2022 - Aug. 2022
+      description:
+        - Applied rural sociology framework to evaluate township division's economic behavior
+        - Carried out case studies based on 10+ literature reviews
+        - "Co-authored: The Influence of National Rural Construction Policies on Development Path of Landscaping Companies"
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Yang, R. (2024). Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern. In Journal of Education, Humanities and Social Sciences (ISSN: 2771-2907). Presented at ETEMSS 2024."
+    - year: 2022
+      items:
+        - "Yang, R., Qianzhong, S., Jingyu, Z. (2022). The Influence of National Rural Construction Policies on the Development Path of Landscaping Companies (DOI: 10.54254/2753-7048/6/20220950). Presented at ICIHCS 2022."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023-2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Academic Achievement Scholarship, Anhui University
+    - year: 2022-2023
       items:
-        - Max Planck Medal
+        - Arts and Sports Scholarship, Anhui University
+
+- title: Leadership and Activities
+  type: time_table
+  contents:
+    - title: Vice President
+      institution: Association for Social Work, Anhui University
+      year: Oct. 2021 - Oct. 2024
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "<u>Programming:</u> Python, R, Stata, SPSS"
+    - "<u>Software:</u> Microsoft Office Suite (Excel, PowerPoint), ArcGIS, Endnote, Zotero"
+    - "<u>Methods:</u> Statistical Analysis, Quantitative Research, Data Visualization, Machine Learning"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Social Science
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Neural data analysis and hidden population discovery
+        - Machine learning applications in social sciences
+        - Large language models for social research
+    - title: Urban Studies and Social Policy
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Urban public space governance
+        - Cultural space construction and community development
+        - Youth-friendly city policies and fertility studies
+    - title: Environmental and Rural Sociology
+      items:
+        - Environmental behavior and ecological consciousness
+        - Rural revitalization and sustainable development
+        - Land use policy and urban-rural transformation
