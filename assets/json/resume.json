@@ -101,14 +101,14 @@
       "publisher": "Journal of Education, Humanities and Social Sciences",
       "releaseDate": "2024-01-01",
       "url": "",
-      "summary": ""
+      "summary": "Accepted by ETEMSS 2024, published in conference proceedings (ISSN: 2771-2907)"
     },
     {
       "name": "The Influence of National Rural Construction Policies on Development Path of Landscaping Companies",
-      "publisher": "",
+      "publisher": "International Conference on Interdisciplinary Humanities and Communication Studies (ICIHCS 2022)",
       "releaseDate": "2022-01-01",
       "url": "",
-      "summary": "Co-authored with Qianzhong S. and Jingyu Z."
+      "summary": "Co-authored with Qianzhong S. and Jingyu Z. (DOI: 10.54254/2753-7048/6/20220950)"
     }
   ],
   "skills": [
@@ -141,24 +141,81 @@
   "projects": [
     {
       "name": "Neural Data Decomposition for Hidden Population Discovery",
-      "summary": "Capstone Project at UCSD - Developing computational methods for neural signal analysis",
+      "summary": "Capstone Project at UCSD — Director: Dr. Meenakshi Khosla",
       "startDate": "2025-09-01",
       "endDate": "2026-06-30",
       "highlights": [
-        "Developing Python-based computational pipeline for neural signal analysis",
-        "Utilizing GPU clusters for dimensionality reduction",
-        "Evaluating component stability through cross-validation"
+        "Developing a Python-based computational pipeline to demix high-dimensional neural signals using matrix factorization",
+        "Utilizing GPU clusters to perform dimensionality reduction and factor analysis of brain data",
+        "Evaluating component stability through cross-validation and interpreting functional significance"
       ]
     },
     {
-      "name": "Embracing Community - Urban Public Cultural Space Construction",
-      "summary": "National College Students' Innovative Training Plan",
+      "name": "Embracing Community: Urban Public Cultural Space Construction and Governance",
+      "summary": "National-level Project — National College Students' Innovative Entrepreneurial Training Plan Program",
       "startDate": "2024-04-01",
       "endDate": "",
       "highlights": [
-        "Explored governance mechanism of urban public space",
-        "Conducted field research collecting 200+ valid responses",
-        "Analyzed effectiveness of existing policies"
+        "Explored governance mechanism of urban public space with theories of urban gentrification and spatial politics",
+        "Conducted field research collecting 200+ valid responses from community residents and social workers",
+        "Analyzed effectiveness of existing policies and proposed recommendations for optimizing urban public space governance"
+      ]
+    },
+    {
+      "name": "Sociological Research and Quantitative Analysis Methods in a Global Context",
+      "summary": "Online Course Experience — Instructor: Prof. Parfait from Cornell University",
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-30",
+      "highlights": [
+        "Traced the shifts in developmental theory from early optimism to recent pessimism",
+        "Undertook quantitative and qualitative studies of global evolution, population growth, social equity",
+        "Extracted data from CGSS2021 (2,735 samples) for quantitative and qualitative analyses",
+        "Independently authored article on Education and Environment-Friendly Behavior"
+      ]
+    },
+    {
+      "name": "Gender Preferences, Family Support and Fertility Intention Studies",
+      "summary": "Course Project for Statistics Software — Empirical Evidence from CFPS",
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-30",
+      "highlights": [
+        "Filtered sample size of 3,404 men and women aged 22-44 from CFPS2018",
+        "Built OLS and Poisson regression models for data analysis",
+        "Contributed paper on impact of gender preferences and family support on fertility intentions"
+      ]
+    },
+    {
+      "name": "Enhancement of Young Married Women's Fertility Intentions Based on Youth-Friendly Cities",
+      "summary": "Provincial-level Project (No.S202310357540) — National College Students' Innovative Entrepreneurial Training Plan Program",
+      "startDate": "2023-02-01",
+      "endDate": "2024-05-31",
+      "highlights": [
+        "Reviewed 40+ literature to define youth-friendly city construction framework",
+        "Designed fertility intention questionnaire and distributed to 117 young married women",
+        "Used SPSS to analyze data revealing low satisfaction with fertility support policies",
+        "Proposed 9 policy optimization paths, affirmed by Anhui Women's Federation"
+      ]
+    },
+    {
+      "name": "Rural Tourism Digital Transformation under the Integration of Culture and Tourism",
+      "summary": "Group Leader — 2022 Anhui Rural Revitalization Innovation and Entrepreneurship Competition",
+      "startDate": "2022-11-01",
+      "endDate": "2022-12-31",
+      "highlights": [
+        "Accessed policies on culture empowerment for rural revitalization",
+        "Conducted social surveys and field visits on local attitudes toward cultural integration",
+        "Analyzed rural digital tourism feasibility and designed logo endorsed by village council"
+      ]
+    },
+    {
+      "name": "Rural Social Policy and Economic Change",
+      "summary": "Remote Research Project — Instructor: Prof. Xu from Fudan University",
+      "startDate": "2022-07-01",
+      "endDate": "2022-08-31",
+      "highlights": [
+        "Applied theoretical framework of rural sociology to evaluate township division's economic behavior",
+        "Carried out case studies grounded on 10+ literature reviews",
+        "Co-authored paper on National Rural Construction Policies and Landscaping Companies"
       ]
     }
   ]
