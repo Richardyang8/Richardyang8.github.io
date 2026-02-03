@@ -1,98 +1,149 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Ruicheng Yang
-    - name: Date of Birth
-      value: 8th May 2003
-    - name: Languages
-      value: Chinese (Native), English (Fluent)
-    - name: Email
-      value: yangrc8@gmail.com
-    - name: Phone
-      value: +1 (858)-241-7929
-    - name: Website
-      value: richardyang8.github.io
+basics:
+  name: "Ruicheng Yang"
+  label: "M.S. Student in Computational Social Science"
+  email: "yangrc8@gmail.com"
+  phone: "+1 (858) 241-7929"
+  url: "https://richardyang8.github.io"
+  summary: >
+    A Master's student in Computational Social Science at UC San Diego, with a background in Sociology 
+    from Anhui University. Passionate about applying computational methods, machine learning, and 
+    statistical analysis to social science research. Research interests include urban studies, 
+    environmental behavior, and neural data analysis.
+  location:
+    city: San Diego
+    countryCode: US
+    region: California
+  profiles:
+    - network: GitHub
+      username: richardyang8
+      url: "https://github.com/richardyang8"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: M.S. in Computational Social Science
-      institution: University of California, San Diego
-      year: 2025 - 2026
-      description:
-        - "Relevant Coursework: Statistical Methods for Computational Social Science, Statistical Computing and Inference from Data, Machine Learning for Social Sciences, Large Language Models, Neural Networks/Deep Learning"
-    
-    - title: Bachelor of Law in Sociology
-      institution: Anhui University (AHU), Anhui, China
-      year: 2021 - 2025
-      description:
-        - "GPA: 3.91/5.0 (WES GPA: 3.67/4.0)"
-        - "Relevant Coursework: Social Research Methods, Social Statistics, Social Governance, Theories of Foreign Sociology, Quantitative Research Design, Statistics Software"
-        - "Awards: 2022-2023 Arts and Sports Scholarship; 2023-2024 Academic Achievement Scholarship"
+work:
+  - position: "Research Intern (Remote)"
+    company: "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
+    startDate: "2024-08-01"
+    endDate: "2024-09-30"
+    summary: >
+      Conducted research on land use changes and urban ecological degradation.
+    highlights:
+      - Analyzed land use changes in 3 regions over 4 decades using ArcGIS software
+      - Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar
+      - Analyzed indicators related to urban ecological degradation
+      - Engaged in assessing potential impacts of urban ecosystem policies
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Intern (Remote)
-      institution: Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences
-      year: Aug. 2024 - Sep. 2024
-      description:
-        - Analyzed land use changes in 3 regions over 4 decades using ArcGIS software
-        - Accessed extensive literature from Web of Science, ScienceDirect, Google Scholar
-        - Analyzed indicators related to urban ecological degradation
-        - Engaged in assessing potential impacts of urban ecosystem policies
-    
-    - title: Intern
-      institution: Jianghuai Tribune, AnHui Academy of Social Sciences, Anhui, China
-      year: Jul. 2023 - Aug. 2023
-      description:
-        - Developed rural revitalization investigation
-        - Edited and proofread 20+ academic journal articles
-        - Attended manuscript revision seminars as conference secretary
+  - position: "Editorial Intern"
+    company: "Jianghuai Tribune, Anhui Academy of Social Sciences"
+    location: "Anhui, China"
+    startDate: "2023-07-01"
+    endDate: "2023-08-31"
+    summary: >
+      Supported academic journal publication and rural revitalization research.
+    highlights:
+      - Developed rural revitalization investigation
+      - Edited and proofread 20+ academic journal articles
+      - Attended manuscript revision seminars as conference secretary
 
-- title: Research and Projects
-  type: time_table
-  contents:
-    - title: Neural Data Decomposition for Hidden Population Discovery
-      institution: Capstone Project - UCSD
-      year: Sep. 2025 - Jun. 2026
-      description:
-        - Developing Python-based computational pipeline for neural signal analysis
-        - Utilizing GPU clusters for dimensionality reduction
-        - Evaluating component stability through cross-validation
-    
-    - title: Embracing Community - Urban Public Cultural Space Construction
-      institution: National College Students' Innovative Training Plan
-      year: Apr. 2024 - Present
-      description:
-        - Explored governance mechanism of urban public space
-        - Conducted field research collecting 200+ valid responses
-        - Analyzed effectiveness of existing policies
+education:
+  - institution: "University of California, San Diego"
+    area: "Computational Social Science"
+    studyType: "Master of Science"
+    startDate: "2025-09-01"
+    endDate: "2026-06-30"
+    score: ""
+    courses:
+      - Statistical Methods for Computational Social Science
+      - Statistical Computing and Inference from Data
+      - Machine Learning for Social Sciences
+      - Large Language Models
+      - Neural Networks/Deep Learning
 
-- title: Publications
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - "Yang, R. (2024). Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern. Journal of Education, Humanities and Social Sciences."
-    - year: 2022
-      items:
-        - "Yang, R., Qianzhong, S., Jingyu, Z. (2022). The Influence of National Rural Construction Policies on Development Path of Landscaping Companies."
+  - institution: "Anhui University"
+    area: "Sociology"
+    studyType: "Bachelor of Law"
+    location: "Anhui, China"
+    startDate: "2021-09-01"
+    endDate: "2025-06-30"
+    score: "GPA: 3.91/5.0 (WES: 3.67/4.0)"
+    courses:
+      - Social Research Methods
+      - Social Statistics
+      - Social Governance
+      - Theories of Foreign Sociology
+      - Quantitative Research Design
+      - Statistics Software
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023-2024
-      items:
-        - Academic Achievement Scholarship, Anhui University
-    - year: 2022-2023
-      items:
-        - Arts and Sports Scholarship, Anhui University
+publications:
+  - name: "Education and Environment-Friendly Behavior: The Mediating Role of Environmental Concern"
+    publisher: "Journal of Education, Humanities and Social Sciences"
+    releaseDate: "2024-01-01"
+    url: ""
+    summary: ""
 
-- title: Technical Skills
-  type: list
-  contents:
-    - "<u>Programming:</u> Python, R, Stata, SPSS"
-    - "<u>Software:</u> Microsoft Office Suite, ArcGIS, Endnote, Zotero"
-    - "<u>Methods:</u> Statistical Analysis, Quantitative Research, Machine Learning"
+  - name: "The Influence of National Rural Construction Policies on Development Path of Landscaping Companies"
+    publisher: ""
+    releaseDate: "2022-01-01"
+    url: ""
+    summary: "Co-authored with Qianzhong S. and Jingyu Z."
+
+projects:
+  - name: "Neural Data Decomposition for Hidden Population Discovery"
+    summary: "Capstone Project at UCSD - Developing computational methods for neural signal analysis"
+    startDate: "2025-09-01"
+    endDate: "2026-06-30"
+    highlights:
+      - Developing Python-based computational pipeline for neural signal analysis
+      - Utilizing GPU clusters for dimensionality reduction
+      - Evaluating component stability through cross-validation
+
+  - name: "Embracing Community - Urban Public Cultural Space Construction"
+    summary: "National College Students' Innovative Training Plan"
+    startDate: "2024-04-01"
+    endDate: ""
+    highlights:
+      - Explored governance mechanism of urban public space
+      - Conducted field research collecting 200+ valid responses
+      - Analyzed effectiveness of existing policies
+
+awards:
+  - title: "Academic Achievement Scholarship"
+    date: "2024-01-01"
+    awarder: "Anhui University"
+    summary: ""
+
+  - title: "Arts and Sports Scholarship"
+    date: "2023-01-01"
+    awarder: "Anhui University"
+    summary: ""
+
+skills:
+  - name: "Programming"
+    level: "Intermediate"
+    keywords:
+      - Python
+      - R
+      - Stata
+      - SPSS
+
+  - name: "Software & Tools"
+    level: "Proficient"
+    keywords:
+      - Microsoft Office Suite
+      - ArcGIS
+      - Endnote
+      - Zotero
+
+  - name: "Research Methods"
+    level: "Proficient"
+    keywords:
+      - Statistical Analysis
+      - Quantitative Research
+      - Machine Learning
+
+languages:
+  - language: "Chinese"
+    fluency: "Native speaker"
+    icon: ""
+
+  - language: "English"
+    fluency: "Fluent"
+    icon: ""
